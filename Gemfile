@@ -1,0 +1,12 @@
+source "https://rubygems.org"
+
+gem "dotenv"
+gem "github-pages"
+gem "jekyll"
+gem "jekyll-github-metadata"
+gem "csv"
+gem "webrick"
+gem "base64"
+gem "bigdecimal"
+gem "mutex_m"
+gem "liquid", "4.0.4"

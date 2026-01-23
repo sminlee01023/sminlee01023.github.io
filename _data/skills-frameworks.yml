@@ -1,0 +1,45 @@
+# > name: Name of your framework
+# > weight: Describes how good you know the framework - values from 1 up to 5
+#
+# Example of a framework
+# - name: Framework
+#   weight: 5
+
+- name: React
+  weight: 3
+
+- name: Node
+  weight: 2
+
+- name: Flutter
+  weight: 1
+
+- name: Django
+  weight: 2
+
+- name: Flask
+  weight: 2
+
+- name: PyTorch
+  weight: 4
+
+- name: Scikit-learn
+  weight: 4
+
+- name: SPM12
+  weight: 5
+
+- name: nilearn
+  weight: 5
+
+- name: nibabel
+  weight: 5
+
+- name: MNE
+  weight: 3
+
+- name: PsychoPy
+  weight: 5
+
+- name: E-prime
+  weight: 4

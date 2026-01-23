@@ -1,0 +1,75 @@
+# > title: Name of your timeline entry, university or work place
+# > title-url: Link to your timeline entry, university or work place
+# > date: Time span
+# > subtitle: The description under the title
+# > tags: List of tags you want to associate with the entry
+# > timeline-side: The side on which you want to display the entry: left or right
+
+# Example of a timeline entry
+# - title: airbnb
+#   title-url: https://example.com/
+#   date: Sep 2019 - Present
+#   subtitle: Fullstack Developer
+#   tags:
+#     - tag: React
+#     - tag: Javascript
+#     - tag: Ruby
+#     - tag: Rails
+#   timeline-side: right
+
+- title: Korea Brain Research Institute
+  title-url: https://www.kbri.re.kr
+  date: Feb 2024 - Present
+  subtitle: Student Researcher
+  timeline-side: left
+
+- title: BDIL
+  title-url: https://minyoungjung.com
+  date: Feb 2024 - Present
+  subtitle: Student Researcher
+  tags:
+    - tag: Neuroimage (sMRI, fMRI, fNIRS) Processing
+    - tag: Physiological data (EMG, GSR, pupilometry) Processing
+    - tag: Longitudinal data Management
+    - tag: Experiment Designer (Psychopy)
+    - tag: Lexical Processing in Adults
+    - tag: Brain development in Adolescents
+  timeline-side: right
+
+- title: Kyungpook National University
+  title-url: https://example.com/
+  date: Nov 2024 - Present
+  subtitle: M.Sc. Artificial Intelligence
+  timeline-side: left
+
+- title: NeuroAI
+  title-url: https://nai.knu.ac.kr
+  date: Nov 2024 - Present
+  subtitle: Student Researcher
+  tags:
+    - tag: Experimental Design Advisor
+    - tag: Neuroimage Processing (SPM, AFNI) Advisor
+  timeline-side: right
+
+- title: NeuDive
+  title-url: http://www.neudive.com/
+  date: Mar 2024 - Aug 2024
+  subtitle: Researcher as Intern
+  timeline-side: left
+
+- title: Gachon University
+  title-url: https://www.gachon.ac.kr/kor/index.do
+  date: Mar 2020 - Feb 2024
+  subtitle: B.A. Biomedical Engineering & Bio-Mechatronics(AI track)
+  tags:
+    - tag: Cum Laude
+  timeline-side: left
+
+- title: MILOPA
+  date: July 2020 - Feb 2024
+  subtitle: Student Researcher
+  tags:
+    - tag: fMRI analysis
+    - tag: Emotional & Lexical Processing
+    - tag: Experiment Designer (E-prime)
+  timeline-side: right
